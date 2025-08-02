@@ -1,1 +1,1 @@
-This contains my work for the weeks which i did, although i was lagging from the expected pace, i have listed all the code which i solved/tried.
+This contains all the concepts and codes which i understood and tried solving in my DSA project, although i was lagging from the expected pace, but thats all i did.
